@@ -46,5 +46,5 @@ projects[commerce][download][type] = git
 ; The following line specifies the main Drupal Commerce repository on GitHub as
 ; the download source. To retrieve a different version, you can alter the URL,
 ; even using a private GitHub URL.
-projects[commerce][download][url] = git://github.com/drupalcommerce/drupalcommerce.git
+projects[commerce][download][url] = git://github.com/drupalcommerce/commerce.git
 
